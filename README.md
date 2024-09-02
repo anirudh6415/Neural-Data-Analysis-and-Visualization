@@ -45,4 +45,8 @@ This repository contains the projects I completed for the BME526 course titled "
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This repository is licensed under the ASU License. Please look at the [LICENSE](LICENSE) file for more details.
+
+## Acknowledgments
+
+This work was completed as part of the BME526 course "Introduction to Neural Engineering" at Arizona State University.
