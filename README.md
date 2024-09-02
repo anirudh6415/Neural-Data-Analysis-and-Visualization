@@ -32,8 +32,8 @@ This repository contains the projects I completed for the BME526 course titled "
   - Spectrogram plots showing the power spectrum of neural signals over time.
   - Tuning curve illustrating the relationship between the spectral power and the frequency band of interest.
   
-![Spectrogram a](images/plot_a.png)
-![Spectrogram b](images/plot_b.png)
+![Spectrogram a](images/plot_a.jpg)
+![Spectrogram b](images/plot_b.jpg)
 
 
 
