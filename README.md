@@ -17,7 +17,7 @@ This repository contains the projects I completed for the BME526 course titled "
   - PETHs showing the firing rate of neurons in response to finger movements.
   - Raster plots visualizing the spike times of neurons around the event of finger movement.
   
-![PETH's & Raster Plot]
+[PETH's & Raster Plot]
 ![](images/2.1.png)
 ![](images/2.12.png)
 ![](images/2.13.png)
